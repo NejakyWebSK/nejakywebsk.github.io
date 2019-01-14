@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Nejaký web
 
-You can use the [editor on GitHub](https://github.com/NejakyWebSK/nejakywebsk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [Příběh domény .SK, aneb krádež za bílého dne](https://www.root.cz/clanky/pribeh-domeny-sk-aneb-kradez-za-bileho-dne/)
+- [NašaDoména.sk](https://www.root.cz/clanky/pribeh-domeny-sk-aneb-kradez-za-bileho-dne/)
+- [Doména .SK nasadí od března DNSSEC](https://www.root.cz/zpravicky/domena-sk-nasadi-od-brezna-dnssec/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Proč existuje tento web?
 
-### Markdown
+Protože v SK.NIC píší o doménách, které jsou volné k registraci. [Doslova toto](https://sk-nic.sk/novinky/):
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NejakyWebSK/nejakywebsk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> Od marca tohto roka si budú môcť slovenské firmy a občania zabezpečiť svoje webové sídla s doménou .SK proti tomu, aby ich klientov hackeri nemohli tak jednoducho presmerovať na falošné webstránky. Umožní to pripravované spustenie služby DNSSEC, ktorá umožňuje zabezpečiť používanie domén (napr. www.nejakyweb.sk) na internete proti podvrhnutiu (tzv. ‘spoofing’) a úmyselnej manipulácii.
