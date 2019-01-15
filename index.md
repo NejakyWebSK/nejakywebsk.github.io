@@ -1,10 +1,10 @@
-## Nejaký web
+# Nějaký web
 
 - [Příběh domény .SK, aneb krádež za bílého dne](https://www.root.cz/clanky/pribeh-domeny-sk-aneb-kradez-za-bileho-dne/)
 - [NašaDoména.sk](https://www.root.cz/clanky/pribeh-domeny-sk-aneb-kradez-za-bileho-dne/)
 - [Doména .SK nasadí od března DNSSEC](https://www.root.cz/zpravicky/domena-sk-nasadi-od-brezna-dnssec/)
 
-#Proč existuje tento web?
+## Proč existuje tento web?
 
 Protože v SK.NIC píší o doménách, které jsou volné k registraci. [Doslova toto](https://sk-nic.sk/novinky/):
 
