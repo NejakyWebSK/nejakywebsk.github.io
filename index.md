@@ -8,6 +8,6 @@
 
 ## Proč existuje tento web?
 
-Protože v SK-NIC píší o doménách, které jsou volné k registraci. [Doslova toto](https://sk-nic.sk/novinky/):
+Protože v SK-NIC píší o doménách, které jsou volné k registraci. [Doslova psali toto](https://sk-nic.sk/novinky/) (už je to změněno):
 
 > Od marca tohto roka si budú môcť slovenské firmy a občania zabezpečiť svoje webové sídla s doménou .SK proti tomu, aby ich klientov hackeri nemohli tak jednoducho presmerovať na falošné webstránky. Umožní to pripravované spustenie služby DNSSEC, ktorá umožňuje zabezpečiť používanie domén (napr. <u>www.nejakyweb.sk</u>) na internete proti podvrhnutiu (tzv. ‘spoofing’) a úmyselnej manipulácii.
